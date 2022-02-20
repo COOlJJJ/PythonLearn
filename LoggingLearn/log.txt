@@ -1,0 +1,10 @@
+2022-02-21 Monday 13:29:41  Logging.py : DEBUG  logger debug message
+2022-02-21 Monday 13:29:41  Logging.py : INFO  logger info message
+2022-02-21 Monday 13:29:41  Logging.py : WARNING  logger warning message
+2022-02-21 Monday 13:29:41  Logging.py : ERROR  logger error message
+2022-02-21 Monday 13:29:41  Logging.py : CRITICAL  logger critical message
+2022-02-21 Monday 13:29:43  Logging.py : DEBUG  logger debug message
+2022-02-21 Monday 13:29:43  Logging.py : INFO  logger info message
+2022-02-21 Monday 13:29:43  Logging.py : WARNING  logger warning message
+2022-02-21 Monday 13:29:43  Logging.py : ERROR  logger error message
+2022-02-21 Monday 13:29:43  Logging.py : CRITICAL  logger critical message

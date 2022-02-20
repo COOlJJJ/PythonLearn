@@ -8,6 +8,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from time import sleep
 
+# selenium web自动化测试的库 也可以做一下web方面的RDA
 # 最基础的操作
 # 结合官网文档实操和百度即可。
 
@@ -51,7 +52,7 @@ wd.get('https://www.baidu.com')
 # move_to_element_with_offset(to_element, xoffset, yoffset) ——移动到距某个元素（左上角坐标）多少距离的位置
 #
 # perform() ——执行链中的所有动作
-#
+
 # release(on_element=None) ——在某个元素位置松开鼠标左键
 #
 # send_keys(*keys_to_send) ——发送某个键到当前焦点的元素
