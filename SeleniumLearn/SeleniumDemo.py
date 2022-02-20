@@ -51,7 +51,7 @@ wd.get('https://www.baidu.com')
 # move_to_element_with_offset(to_element, xoffset, yoffset) ——移动到距某个元素（左上角坐标）多少距离的位置
 #
 # perform() ——执行链中的所有动作
-#
+
 # release(on_element=None) ——在某个元素位置松开鼠标左键
 #
 # send_keys(*keys_to_send) ——发送某个键到当前焦点的元素
